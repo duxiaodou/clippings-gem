@@ -112,7 +112,7 @@ p notes
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/badtudou/clippings.
+Bug reports and pull requests are welcome on GitHub at https://github.com/badtudou/clippings-gem.
 
 ## License
 
