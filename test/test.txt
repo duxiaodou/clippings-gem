@@ -1,0 +1,21 @@
+==========
+HTTP权威指南 (图灵程序设计丛书) ([美]David Gourley Brian Totty Marjorie Sayer Sailu Reddy Aushu Aggarwal)
+- 您在位置 #425-426的标注 | 添加于 2017年6月16日星期五 下午8:21:59
+
+下报文是如何通过传输控制协议（Transmission Control Protocol，TCP）连接从一个地方搬移到另一个地方去的。
+==========
+﻿HTTP权威指南 (图灵程序设计丛书) ([美]David Gourley Brian Totty Marjorie Sayer Sailu Reddy Aushu Aggarwal)
+- 您在位置 #802 的笔记 | 添加于 2017年6月16日星期五 下午9:02:31
+
+解析相对url 的算法
+==========
+The Well-Grounded Rubyist, Second Edition (David A. Black)
+- 您在位置 #7107-7107的标注 | 添加于 2017年9月5日星期二 上午10:13:28
+
+Ranges have begin and end methods,
+==========
+The Well-Grounded Rubyist, Second Edition (David A. Black)
+- 您在位置 #7193-7193的标注 | 添加于 2017年9月5日星期二 上午10:28:42
+
+To remove an object, use delete:
+==========
