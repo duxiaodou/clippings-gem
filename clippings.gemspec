@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Parse notes and highlights in your Kindle clippings}
   spec.description   = %q{Parse notes and highlights in your Kindle clippings, the name of the Kindle clipper file was 'My Clippings.txt'}
-  spec.homepage      = "https://github.com/BadTudou/clippings-gem"
+  spec.homepage      = "https://github.com/Duxiaodou/clippings-gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
