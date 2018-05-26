@@ -53,7 +53,7 @@ module Clippings
                     
                 # 提取片段的类型与创建日期
                 /(#{NOTE_LABEL}|#{HIGHLIGHT_LABEL}).*(#{ADD_LABEL})(.*)/ =~ (fragment[:type_date])
-                fragment[:type] = HIGHLIGHT_LABEL.include? $1 ? 'type' : 'note'
+                fragment[:type] = ((HIGHLIGHT_LABEL.include? $1) ? :highlight : :note)
                 fragment[:date] = $3 || NOTE_DEFAULT_DATETIME
                 fragment.delete(:type_date)
                 fragment[:content].lstrip!
